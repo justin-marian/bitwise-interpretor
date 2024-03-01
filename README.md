@@ -8,9 +8,9 @@ A simple interpreter that emulates a basic encoder/decoder for arithmetic operat
 
 The binary instruction is given in a specific format which includes the number of operations to execute, the operation codes, and the operand sizes.
 
-`N`: The number of operations, represented by **3** bits.
-`Op`: The operation code for `+`,`-`,`*`,`/`, represented by **2** bits.
-`Dim`: The size of an operand, represented by **4** bits.
+- `N`: The number of operations, represented by **3** bits.
+- `Op`: The operation code for `+`,`-`,`*`,`/`, represented by **2** bits.
+- `Dim`: The size of an operand, represented by **4** bits.
 
 The output will display *N, the operators, and the operand size*.
 
