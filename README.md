@@ -19,12 +19,18 @@ The output will display *N, the operators, and the operand size*.
 This task extends `Instruction Decoding` by adding **operand reading and instruction execution**.
 
 Operands are read as unsigned short numbers and the number of operands is calculated based on the formula:
-`((N + 1) * Dim) / 16`.
+`((N + 1) * Dim) / 16`. The formula  is used to calculate the number of operands, where:
+
+- `16` is significant as it represents the size, in bits, of the `unsigned short` numbers being read as operands.
+- `Dim` and the number `N + 1` are multiplied together to calculate the total bit length of the operand data.
+
+**Note:** Dividing this total by 16 converts the bit length into the count of unsigned short numbers, aligning with the data type's storage capacity and ensuring accurate operand handling within the system's architecture.
 The instruction execution is carried out in the order of operations received.
 
 ### Build the Project
 
-The provided examples illustrate the usage of a command-line tool named bitwise for performing operations encoded in a specific format. The tool seems to support at least two commands: `decode` and `execute`. But first build the project, follow the next commands:
+The provided examples illustrate the usage of a command-line tool named bitwise for performing operations encoded in a specific format. The tool seems to support at least two commands: `decode` and `execute`.
+But first build the project, follow the next commands:
 
 ```bash
 $ cd build
