@@ -1,0 +1,5 @@
+Command: execute
+Code: 58720256
+Enter block:
+operands: 11 10 
+Answer: 21

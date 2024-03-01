@@ -1,0 +1,9 @@
+Command: execute
+Code: 2111700992
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+operands: 392 321 959 293 575 
+Answer: 1725

@@ -1,0 +1,9 @@
+Command: execute
+Code: 2101215232
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+operands: 92 81 58 29 95 
+Answer: 1587

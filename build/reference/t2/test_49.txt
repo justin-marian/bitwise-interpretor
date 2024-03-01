@@ -1,0 +1,13 @@
+Command: execute
+Code: 3814948352
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+operands: 10 10 10 3 6 5 9 10 2 
+Answer: 5

@@ -1,0 +1,5 @@
+Command: decode
+Code: 920649728
+N : 2
+Ops : * / 
+Dim : 8

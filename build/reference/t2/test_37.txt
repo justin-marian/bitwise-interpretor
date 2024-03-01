@@ -1,0 +1,13 @@
+Command: execute
+Code: 3871727104
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+operands: 23434 10000 23456 1234 1 5000 345 55555 10 
+Answer: 230

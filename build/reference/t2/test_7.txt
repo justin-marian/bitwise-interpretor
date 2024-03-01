@@ -1,0 +1,5 @@
+Command: execute
+Code: 1410859008
+Enter block:
+operands: 13 6 13 7 
+Answer: 1021

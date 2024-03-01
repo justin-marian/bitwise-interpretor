@@ -1,0 +1,6 @@
+Command: execute
+Code: 920649728
+Enter block:
+Enter block:
+operands: 100 2 4 
+Answer: 50

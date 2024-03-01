@@ -1,0 +1,5 @@
+Command: decode
+Code: 0
+N : 1
+Ops : + 
+Dim : 1

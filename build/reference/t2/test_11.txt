@@ -1,0 +1,7 @@
+Command: execute
+Code: 1947074560
+Enter block:
+Enter block:
+Enter block:
+operands: 214 214 250 41 167 
+Answer: 11449208

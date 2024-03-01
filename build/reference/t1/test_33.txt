@@ -1,0 +1,5 @@
+Command: decode
+Code: 3228702720
+N : 7
+Ops : + + + / * - + 
+Dim : 4

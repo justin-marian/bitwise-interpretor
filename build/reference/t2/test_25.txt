@@ -1,0 +1,8 @@
+Command: execute
+Code: 3072778240
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+operands: 108 155 135 234 205 4 255 
+Answer: 113

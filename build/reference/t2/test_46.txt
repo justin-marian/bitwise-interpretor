@@ -1,0 +1,9 @@
+Command: execute
+Code: 1646133248
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+Enter block:
+operands: 10 2 1 1 2 
+Answer: 14

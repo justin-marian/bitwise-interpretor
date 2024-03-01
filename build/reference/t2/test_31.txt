@@ -1,0 +1,7 @@
+Command: execute
+Code: 2308145152
+Enter block:
+Enter block:
+Enter block:
+operands: 234 173 167 91 87 90 
+Answer: 8010

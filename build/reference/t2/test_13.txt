@@ -1,0 +1,5 @@
+Command: execute
+Code: 711196672
+Enter block:
+operands: 0 12 5 
+Answer: -17
