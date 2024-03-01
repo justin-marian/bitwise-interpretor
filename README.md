@@ -18,7 +18,9 @@ The output will display *N, the operators, and the operand size*.
 
 This task extends `Instruction Decoding` by adding **operand reading and instruction execution**.
 
-Operands are read as unsigned short numbers and the number of operands is calculated based on the formula: `((N + 1) * Dim) / 16`. The instruction execution is carried out in the order of operations received.
+Operands are read as unsigned short numbers and the number of operands is calculated based on the formula:
+`((N + 1) * Dim) / 16`.
+The instruction execution is carried out in the order of operations received.
 
 ### Build the Project
 
