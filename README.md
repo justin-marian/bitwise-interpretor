@@ -30,7 +30,7 @@ The number is based on the following formula: `((N + 1) * Dim) / 16`, which is u
 **Note:** Dividing this total by 16 converts the bit length into the count of unsigned short numbers, aligning with the data type's storage capacity and ensuring accurate operand handling within the system's architecture.
 The instruction execution is carried out in the order of operations received.
 
-### Build the Project
+## Build the Project
 
 The provided examples illustrate the usage of a command-line tool named bitwise for performing operations encoded in a specific format. The tool seems to support at least two commands: `decode` and `execute`.
 But first build the project, follow the next commands:
